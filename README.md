@@ -16,3 +16,4 @@
 -[Mozilla - Submit](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
 - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
 - [Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+- [Blog: How to Store User Passwords and Overcome Security Threats in 2017 by Andrei Neagoie](https://rangle.io/blog/how-to-store-user-passwords-and-overcome-security-threats-in-2017/)
