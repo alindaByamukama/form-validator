@@ -13,3 +13,5 @@
 - [Mozilla - Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
 - [RegEx Background Info](https://html.com/attributes/input-pattern/)
 - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi)
+-[Mozilla - Submit](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+- [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
