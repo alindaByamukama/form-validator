@@ -15,3 +15,4 @@
 - [RegEx Playground Tool (Password Pattern)](https://regexr.com/3bfsi)
 -[Mozilla - Submit](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
 - [W3Schools - Prevent Default](https://www.w3schools.com/jsref/event_preventdefault.asp)
+- [Different Approaches to Validation Article](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
